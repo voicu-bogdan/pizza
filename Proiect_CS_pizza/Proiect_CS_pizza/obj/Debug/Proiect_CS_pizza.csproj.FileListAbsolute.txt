@@ -1,0 +1,10 @@
+C:\Users\elev\source\repos\Proiect_CS_pizza\Proiect_CS_pizza\obj\Debug\Proiect_CS_pizza.csprojAssemblyReference.cache
+C:\Users\elev\source\repos\Proiect_CS_pizza\Proiect_CS_pizza\obj\Debug\Proiect_CS_pizza.Form1.resources
+C:\Users\elev\source\repos\Proiect_CS_pizza\Proiect_CS_pizza\obj\Debug\Proiect_CS_pizza.Properties.Resources.resources
+C:\Users\elev\source\repos\Proiect_CS_pizza\Proiect_CS_pizza\obj\Debug\Proiect_CS_pizza.csproj.GenerateResource.cache
+C:\Users\elev\source\repos\Proiect_CS_pizza\Proiect_CS_pizza\obj\Debug\Proiect_CS_pizza.csproj.CoreCompileInputs.cache
+C:\Users\elev\source\repos\Proiect_CS_pizza\Proiect_CS_pizza\bin\Debug\Proiect_CS_pizza.exe.config
+C:\Users\elev\source\repos\Proiect_CS_pizza\Proiect_CS_pizza\bin\Debug\Proiect_CS_pizza.exe
+C:\Users\elev\source\repos\Proiect_CS_pizza\Proiect_CS_pizza\bin\Debug\Proiect_CS_pizza.pdb
+C:\Users\elev\source\repos\Proiect_CS_pizza\Proiect_CS_pizza\obj\Debug\Proiect_CS_pizza.exe
+C:\Users\elev\source\repos\Proiect_CS_pizza\Proiect_CS_pizza\obj\Debug\Proiect_CS_pizza.pdb
