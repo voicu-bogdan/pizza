@@ -45,7 +45,7 @@ namespace Proiect_CS_pizza
             {
                 double marime = 13.25;
             }
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
         }
@@ -54,7 +54,7 @@ namespace Proiect_CS_pizza
         {
 
         }
-
+        double marime;
         private void label14_Click(object sender, EventArgs e)
         {
 
@@ -93,7 +93,7 @@ namespace Proiect_CS_pizza
             double num6 = Convert.ToDouble(textBox22.Text);
             double num7 = Convert.ToDouble(textBox25.Text);
             double num8 = Convert.ToDouble(textBox28.Text);
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
 
@@ -126,7 +126,7 @@ namespace Proiect_CS_pizza
             double num6 = Convert.ToDouble(textBox22.Text);
             double num7 = Convert.ToDouble(textBox25.Text);
             double num8 = Convert.ToDouble(textBox28.Text);
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
 
@@ -159,7 +159,7 @@ namespace Proiect_CS_pizza
             double num6 = Convert.ToDouble(textBox22.Text);
             double num7 = Convert.ToDouble(textBox25.Text);
             double num8 = Convert.ToDouble(textBox28.Text);
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
         }
@@ -186,7 +186,7 @@ namespace Proiect_CS_pizza
             double num6 = Convert.ToDouble(textBox22.Text);
             double num7 = Convert.ToDouble(textBox25.Text);
             double num8 = Convert.ToDouble(textBox28.Text);
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
         }
@@ -218,7 +218,7 @@ namespace Proiect_CS_pizza
             double num6 = Convert.ToDouble(textBox22.Text);
             double num7 = Convert.ToDouble(textBox25.Text);
             double num8 = Convert.ToDouble(textBox28.Text);
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
         }
@@ -250,7 +250,7 @@ namespace Proiect_CS_pizza
             double num6 = Convert.ToDouble(textBox22.Text);
             double num7 = Convert.ToDouble(textBox25.Text);
             double num8 = Convert.ToDouble(textBox28.Text);
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
         }
@@ -282,7 +282,7 @@ namespace Proiect_CS_pizza
             double num6 = Convert.ToDouble(textBox22.Text);
             double num7 = Convert.ToDouble(textBox25.Text);
             double num8 = Convert.ToDouble(textBox28.Text);
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
         }
@@ -323,7 +323,7 @@ namespace Proiect_CS_pizza
             {
                 double marime = 13.25;
             }
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
         }
@@ -379,7 +379,7 @@ namespace Proiect_CS_pizza
             {
                 double marime = 13.25;
             }
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
         }
@@ -412,9 +412,42 @@ namespace Proiect_CS_pizza
             {
                 double marime = 13.25;
             }
-            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime;
+            double nep = numa + numb + num3 + num4 + num5 + num6 + num7 + num8 + marime + extra;
             string Subtotal2 = String.Format("{0:0.00}", nep);
             textBox29.Text = Subtotal2;
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if(checkBox1.Checked = true)
+            {
+                double extra = extra + 1.5;
+            }
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+            double extra = extra + 1.5;
+        }
+
+        private void checkBox3_CheckedChanged(object sender, EventArgs e)
+        {
+            double extra = extra + 1.5;
+        }
+
+        private void checkBox4_CheckedChanged(object sender, EventArgs e)
+        {
+            double extra = extra + 1.5;
+        }
+
+        private void checkBox5_CheckedChanged(object sender, EventArgs e)
+        {
+            double extra = extra + 1.5;
+        }
+
+        private void checkBox6_CheckedChanged(object sender, EventArgs e)
+        {
+            double extra = extra + 1.5;
         }
     }
 }

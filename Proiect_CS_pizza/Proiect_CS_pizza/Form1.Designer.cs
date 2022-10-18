@@ -215,6 +215,7 @@
             this.checkBox6.TabIndex = 5;
             this.checkBox6.Text = "Porumb";
             this.checkBox6.UseVisualStyleBackColor = true;
+            this.checkBox6.CheckedChanged += new System.EventHandler(this.checkBox6_CheckedChanged);
             // 
             // checkBox5
             // 
@@ -225,6 +226,7 @@
             this.checkBox5.TabIndex = 4;
             this.checkBox5.Text = "Ceapa rosie";
             this.checkBox5.UseVisualStyleBackColor = true;
+            this.checkBox5.CheckedChanged += new System.EventHandler(this.checkBox5_CheckedChanged);
             // 
             // checkBox4
             // 
@@ -235,6 +237,7 @@
             this.checkBox4.TabIndex = 3;
             this.checkBox4.Text = "Masline negre";
             this.checkBox4.UseVisualStyleBackColor = true;
+            this.checkBox4.CheckedChanged += new System.EventHandler(this.checkBox4_CheckedChanged);
             // 
             // checkBox3
             // 
@@ -245,6 +248,7 @@
             this.checkBox3.TabIndex = 2;
             this.checkBox3.Text = "Ciuperci proaspete";
             this.checkBox3.UseVisualStyleBackColor = true;
+            this.checkBox3.CheckedChanged += new System.EventHandler(this.checkBox3_CheckedChanged);
             // 
             // checkBox2
             // 
@@ -255,6 +259,7 @@
             this.checkBox2.TabIndex = 1;
             this.checkBox2.Text = "Ardei Gras";
             this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
             // 
             // checkBox1
             // 
@@ -265,6 +270,7 @@
             this.checkBox1.TabIndex = 0;
             this.checkBox1.Text = "Rosii proaspete";
             this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // groupBox3
             // 
